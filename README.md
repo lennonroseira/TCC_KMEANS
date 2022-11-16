@@ -1,5 +1,4 @@
-# TCC APLICAÇÃO DE ALGORÍTMO NÃO SUPERVISIONADO PARA ESCOLHA DE
-CARTEIRA DE FUNDOS IMOBILIÁRIOS
+# TCC APLICAÇÃO DE ALGORÍTMO NÃO SUPERVISIONADO PARA ESCOLHA DE CARTEIRA DE FUNDOS IMOBILIÁRIOS
 
 Os arquivos presente neste repositório visam trazer o código utilizado no trabalho de conclusão de curso de engenharia da computação da Universidade Federal da Bahia, realizado pelo aluno Lennon Negrão Roseira.
 

@@ -4,4 +4,4 @@ Os arquivos presente neste repositório visam trazer o código utilizado no trab
 
 Neste repositório o arquivo Rawcode_Inputs_TCC_Kmeans_lennon.ipynb tem todo o código utilizado de modo bruto, já o arquivo TCC_kmeans_lennon.ipynb traz a execução do código e seus respectivos outputs.
 
-As informações de Fundo imobiliário foram obtidas através do site https://www.fundsexplorer.com.br/ em Maio de 2022
+As informações de Fundo imobiliário foram obtidas através do site https://www.fundsexplorer.com.br/ em Maio de 2022 e pode ser visualizada no arquivo FII.xls
